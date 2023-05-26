@@ -1,0 +1,5 @@
+#ignore local py_modules
+# templateProcessor/py_modules
+
+#ignore local test assets
+templateProcessor/tests/testAssets
