@@ -3,3 +3,6 @@
 
 #ignore local test assets
 templateProcessor/tests/testAssets
+
+#ignore pycache
+**/__pycache__
