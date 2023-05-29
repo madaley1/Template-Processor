@@ -10,5 +10,5 @@ def main(path):
   values = desiredValues(matches)
   newPath = duplicateFile(file, path)
   #replace text may work, but isn't saving the pdf
-  replaceText(newPath, values)
-  
+  replaceText(path, newPath, values)
+  print("Done!")
