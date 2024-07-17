@@ -6,3 +6,4 @@ templateProcessor/tests/testAssets
 
 #ignore pycache
 **/__pycache__
+**/py_modules
